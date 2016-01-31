@@ -4,7 +4,7 @@
         <description><![CDATA[TestLeadbased]]></description>
         <link>https://thegrid.ai/testleadbased/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 22:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 22:28:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testleadbased/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This a Title]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Sun, 31 Jan 2016 22:27:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foobar Title]]></title>
-            <description><![CDATA[<article><h1>Foobar Title</h1><p>This is a headline</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f00e66fed8b8a721a7f61c1ce92570c58188ca3a.png"></article>]]></description>
+            <title><![CDATA[This is a headline]]></title>
+            <description><![CDATA[<article><h1>This is a headline</h1><p>this is a description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caa1be683efaf17fe6efb5d71b2a4fbba279580c.png"></article>]]></description>
             <link>https://thegrid.ai/testleadbased/foobar-title/index.html</link>
             <guid isPermaLink="false">2ac9543e-454a-4acb-9bf8-aa75b7375144</guid>
-            <pubDate>Sun, 31 Jan 2016 21:56:20 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 22:28:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
