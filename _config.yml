@@ -1,0 +1,28 @@
+name: TestLeadbased
+favicon: null
+layout_spectrum: 0.8264203213620931
+typography_spectrum: 0.22975906706415117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.48117171763442457
+  lightness: 0.4954304681159556
+  saturation: 0.9870061636902392
+  rhythmicContrast: 0.5802108566276729
+purpose: []
