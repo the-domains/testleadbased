@@ -4,18 +4,18 @@
         <description><![CDATA[TestLeadbased]]></description>
         <link>https://thegrid.ai/testleadbased/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 17:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 13:53:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testleadbased/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[This a Title]]></title>
-            <description><![CDATA[<article><h1>This a Title</h1><p>www.leadbased.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87ce464af18acbf4f8b74c9469fe2ce0ed5619c4.png"></article>]]></description>
+            <title><![CDATA[www.leadbased.com]]></title>
+            <description><![CDATA[<article><h1>www.leadbased.com</h1><p>Another description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb085528548521c6cb93a1408ab5d49f59c83649.png"></article>]]></description>
             <link>https://thegrid.ai/testleadbased/this-a-title/index.html</link>
             <guid isPermaLink="false">2fb83b84-9a9a-4843-8c78-086d816e5329</guid>
-            <pubDate>Sun, 31 Jan 2016 22:07:21 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 13:53:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Title Here]]></title>
-            <description><![CDATA[<article><h1>Title Here</h1><p>Ullendem porum, quo dis aliquis imporem iditibus similla boressi ut eaquunt reiciet pa quiae con ea ium eliquibus nonseca tempore et, nienti omnis aut fugitiu saperum cum sin es ipsumqui ulparchil elent.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af14f6ff-29ca-4ac7-a1ee-9ebe445c2305.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Title Here</h1><p>Ullendem porum, quo dis aliquis imporem iditibus similla boressi ut eaquunt reiciet pa quiae con ea ium eliquibus nonseca tempore et, nienti omnis aut fugitiu saperum cum sin es ipsumqui ulparchil elent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af36c4db015ca94b10f469b6a1149815a769341a.png"></article>]]></description>
             <link>https://thegrid.ai/testleadbased/title-here/index.html</link>
             <guid isPermaLink="false">3d90e874-57e8-48ee-9f07-6055a8788266</guid>
             <pubDate>Thu, 04 Feb 2016 17:29:44 GMT</pubDate>
